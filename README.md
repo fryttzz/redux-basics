@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+**Educational purpose app to learn the basics of react redux**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
